@@ -1,0 +1,20 @@
+# Options:
+#   black
+#   blue
+#   brown
+#   cyan
+#   gray
+#   green
+#   light_blue
+#   lime
+#   magenta
+#   orange
+#   pink
+#   purple
+#   red
+#   silver
+#   white
+#   yellow
+#   rainbow    (random color)
+#   natural    (disable plugin)
+color: "white"
